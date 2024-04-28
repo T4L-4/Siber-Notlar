@@ -56,4 +56,4 @@
 
 
 ---
-[ Tools ](../tools.md) | [ Ana Sayfa ](../README.md)
+[ Tools ](./Tools/) | [ Ana Sayfa ](./README.md)
