@@ -6,13 +6,7 @@ Dirb bir web içerik tarayıcısıdır. Hedef web adresinde bulunan dosya ve diz
 
 ## Kurulumu :
 
-Dirb Kali Linux'ta yüklü olarak gelmektedir.
-
-Eğer sisteminizde yüklü değilse :
-
     sudo apt install dirb
-
-komutu ile yükleyebilirsiniz.
 
 ## Temel Kullanımı :
 
