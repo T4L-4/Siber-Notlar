@@ -100,7 +100,7 @@ Verilen scripti çalıştırır ve scriptin hedef aldığı portlar ile ilgili d
 
     nmap 192.168.1.13 --script SCRIPT_NAME 
 
-    nmap 192.168.1.13 --script SCRIPT_NAME --script=http-enum.nse 
+    nmap 192.168.1.13 --script=http-enum.nse 
 
 
 
